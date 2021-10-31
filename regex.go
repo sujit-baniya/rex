@@ -1,4 +1,4 @@
-package rubex
+package rex
 
 /*
 #cgo CFLAGS: -I/usr/local/include
